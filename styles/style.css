@@ -1,0 +1,63 @@
+/* || general styles */
+
+html {
+  font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  font-size: 120%;
+}
+
+h1, h2 {
+  font-family: 'helvetica';
+}
+
+
+h1 {
+  font-size: 2rem;
+  text-align: center;
+}
+
+/* section styles */
+
+section article {
+  width: 33%;
+  float: left;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+section p {
+  margin: 20px 0;
+}
+
+section ul {
+  margin-top: 3;
+  font-size: 1rem;
+  letter-spacing: 2px;
+}
+
+section ol {
+  margin-top: 3;
+  font-size: 1rem;
+  letter-spacing: 2px;
+}
+
+h2 {
+  font-size: 1rem;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+p {
+  font-size: 100%; 
+  
+}
