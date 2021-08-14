@@ -14,10 +14,21 @@ h1{
   font-family: 'helvetica';
 }
 
-
 h1 {
-  font-size: 4rem;
+  font-size: 3rem;
   text-align: center;
+}
+
+h2 {
+  font-size: 2rem;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
 }
 
 /* section styles */
@@ -50,11 +61,7 @@ section ol {
   letter-spacing: 2px;
 }
 
-h2 {
-  font-size: 3rem;
-  letter-spacing: 1px;
-  margin-bottom: 10px;
-}
+
 
 p {
   font-size: 100%; 
