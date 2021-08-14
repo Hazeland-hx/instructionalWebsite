@@ -10,13 +10,13 @@ body {
   font-size: 120%;
 }
 
-h1, h2 {
+h1{
   font-family: 'helvetica';
 }
 
 
 h1 {
-  font-size: 2rem;
+  font-size: 3rem;
   text-align: center;
 }
 
@@ -51,10 +51,9 @@ section ol {
 }
 
 h2 {
-  font-size: 1rem;
+  font-size: 3rem;
   letter-spacing: 1px;
   margin-bottom: 10px;
-  text-align: center;
 }
 
 p {
